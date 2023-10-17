@@ -3,6 +3,7 @@
 <h2>👨‍💻 Software Development/Data Science Projects:</h2>
 
   - [Stock DataXtractor (Yahoo Finance)](https://github.com/welsayed/Stock-DataXtractor)
+  - [Movie Recommendation System](https://github.com/welsayed/Movie-Recommendation-System)
     
 <h2> 🤳 Connect with me:</h2>
 
