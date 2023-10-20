@@ -4,6 +4,7 @@
 
   - [Stock DataXtractor (Yahoo Finance)](https://github.com/welsayed/Stock-DataXtractor)
   - [Movie Recommendation System](https://github.com/welsayed/Movie-Recommendation-System)
+  - [Data Science Salary Estimator](https://github.com/welsayed/Data-Science-Salary-Estimator)
     
 <h2> 🤳 Connect with me:</h2>
 
